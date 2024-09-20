@@ -1,0 +1,9 @@
+O GitHub executa uma instância do git, que é um software de controle de versão executado na nuvem. O GitHub é popular entre projetos e empresas de código aberto.
+
+Neste laboratório, você vai:
+
+Baixar soluções para os laboratórios anteriores
+Criar uma conta do GitHub
+Ler o guia Hello World do GitHub
+Criar um repositório privado para os laboratórios
+Baixar o repositório
