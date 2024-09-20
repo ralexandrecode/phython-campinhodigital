@@ -2,10 +2,8 @@
 # Jornada de aprendizado python do programa re/start AWS ☁
 ### Arquivos de testes dos laboratórios
 ## 📒 Este repositório:
-Este repositório contém todos os arquivos criados e testados durante os laboratórios práticos do módulo de aprendizado de programação em python pelo programa re/start da Amazon AWS 
+Este repositório contém todos os arquivos criados e testados durante os laboratórios práticos do módulo de aprendizado de programação em python pelo programa re/start da Amazon AWS
 
-**Conecte-se Comigo:**<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoalexandreprofissional/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ralexandrecode)
-[![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/ricardoalexandre.profissional/badges)
-[![My profile DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DER?style=for-the-badge)](https://www.dio.me/users/ricardoalexandre_profissional)
